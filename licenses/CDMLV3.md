@@ -1,5 +1,5 @@
 # CROWDENOX DIGITAL MEDIA LICENSE
-Version 2.0 — Proprietary Source Code Agreement
+Version 3.0 — Proprietary Source Code Agreement
 Effective Date: September 4, 2026
 
 ## LEGAL NOTICE & DISCLAIMER
